@@ -1,0 +1,1 @@
+Project to learn how to build chrome extensions. This extension allows users to keep track of what tabs they have open, as well as kill any tabs not currently being used to free up system memory, with configurable options.
